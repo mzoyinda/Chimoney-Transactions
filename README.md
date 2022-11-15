@@ -1,4 +1,4 @@
-# Chimoney-Initiate-Airtime
+# Chimoney-Transactions
 Reward UI that takes a Chimoney issueID and renders a list of Pretty cards
 
 view the deployed project [here](https://chimoney-transactions.netlify.app/)
