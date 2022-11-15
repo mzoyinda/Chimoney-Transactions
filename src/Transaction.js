@@ -97,8 +97,7 @@ export const TransactionCard = () => {
     if(id){
       dispatch(getTransactionAsync(id));
     }
-    console.log(data);
-    }, [])
+    }, [id])
 
   return (
     <CardWrapper>
